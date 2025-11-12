@@ -1,0 +1,8 @@
+[
+  {
+    "title": "Precio dolar",
+    "file": "./jobs/dolar.js",
+    "interval": "0-0-1",
+    "executeOnStart": true
+  }
+]
